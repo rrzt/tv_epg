@@ -5536,6 +5536,16 @@
       "name": "上海都市,上海都市频道,东方都市,都市频道,都市频道HD"
     },
     {
+      "epgid": "上虞新商都",
+      "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/上虞新商都.png",
+      "name": "上虞新商都,"
+    },
+    {
+      "epgid": "上虞新闻综合",
+      "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/上虞新闻综合.png",
+      "name": "上虞新闻综合,"
+    },
+    {
       "epgid": "上视新闻",
       "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/上视新闻.png",
       "name": "上视新闻,上海新闻综合HD,上海新闻高清,上海综合,东方新闻"
@@ -5674,6 +5684,16 @@
       "epgid": "东莞生活资讯",
       "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/东莞生活资讯.png",
       "name": "东莞生活资讯,"
+    },
+    {
+      "epgid": "东阳影视生活",
+      "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/东阳影视生活.png",
+      "name": "东阳影视生活,"
+    },
+    {
+      "epgid": "东阳新闻综合",
+      "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/东阳新闻综合.png",
+      "name": "东阳新闻综合,"
     },
     {
       "epgid": "东风",
@@ -5906,6 +5926,26 @@
       "name": "丹寨综合,"
     },
     {
+      "epgid": "丽水新闻综合",
+      "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/丽水新闻综合.png",
+      "name": "丽水新闻综合,"
+    },
+    {
+      "epgid": "义乌公共文艺",
+      "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/义乌公共文艺.png",
+      "name": "义乌公共文艺,"
+    },
+    {
+      "epgid": "义乌商贸频道",
+      "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/义乌商贸频道.png",
+      "name": "义乌商贸频道,"
+    },
+    {
+      "epgid": "义乌新闻综合",
+      "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/义乌新闻综合.png",
+      "name": "义乌新闻综合,"
+    },
+    {
       "epgid": "之江纪录",
       "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/之江纪录.png",
       "name": "之江纪录,"
@@ -6009,6 +6049,11 @@
       "epgid": "云南都市",
       "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/云南都市.png",
       "name": "云南都市,"
+    },
+    {
+      "epgid": "云和新闻综合",
+      "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/云和新闻综合.png",
+      "name": "云和新闻综合,"
     },
     {
       "epgid": "云浮公共",
@@ -6129,6 +6174,21 @@
       "epgid": "体育赛事",
       "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/体育赛事.png",
       "name": "体育赛事,"
+    },
+    {
+      "epgid": "余姚姚江文化",
+      "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/余姚姚江文化.png",
+      "name": "余姚姚江文化,"
+    },
+    {
+      "epgid": "余姚新闻综合",
+      "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/余姚新闻综合.png",
+      "name": "余姚新闻综合,"
+    },
+    {
+      "epgid": "余杭新闻综合",
+      "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/余杭新闻综合.png",
+      "name": "余杭新闻综合,"
     },
     {
       "epgid": "佛冈",
@@ -7386,6 +7446,11 @@
       "name": "古装剧场,IPTV古装剧场"
     },
     {
+      "epgid": "台州新闻综合",
+      "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/台州新闻综合.png",
+      "name": "台州新闻综合,"
+    },
+    {
       "epgid": "台湾戏剧",
       "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/台湾戏剧.png",
       "name": "台湾戏剧,145台灣戲劇台,236台灣戲劇台"
@@ -7649,6 +7714,11 @@
       "epgid": "嘉兴公共",
       "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/嘉兴公共.png",
       "name": "嘉兴公共,"
+    },
+    {
+      "epgid": "嘉善新闻综合",
+      "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/嘉善新闻综合.png",
+      "name": "嘉善新闻综合,"
     },
     {
       "epgid": "嘉祥新闻",
@@ -8391,6 +8461,11 @@
       "name": "天元围棋,"
     },
     {
+      "epgid": "天台和合频道",
+      "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/天台和合频道.png",
+      "name": "天台和合频道,"
+    },
+    {
       "epgid": "天天",
       "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/天天.png",
       "name": "天天,"
@@ -8641,9 +8716,19 @@
       "name": "宁波都市文体,"
     },
     {
+      "epgid": "宁海新闻综合",
+      "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/宁海新闻综合.png",
+      "name": "宁海新闻综合,"
+    },
+    {
       "epgid": "宁陕",
       "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/宁陕.png",
       "name": "宁陕,"
+    },
+    {
+      "epgid": "安吉新闻综合",
+      "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/安吉新闻综合.png",
+      "name": "安吉新闻综合,"
     },
     {
       "epgid": "安多卫视",
@@ -9001,6 +9086,11 @@
       "name": "峨眉电影4K,"
     },
     {
+      "epgid": "嵊州新闻综合",
+      "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/嵊州新闻综合.png",
+      "name": "嵊州新闻综合,"
+    },
+    {
       "epgid": "巴中公共",
       "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/巴中公共.png",
       "name": "巴中公共,"
@@ -9036,6 +9126,11 @@
       "name": "希望电视,"
     },
     {
+      "epgid": "常山新闻综合",
+      "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/常山新闻综合.png",
+      "name": "常山新闻综合,"
+    },
+    {
       "epgid": "平和",
       "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/平和.png",
       "name": "平和,"
@@ -9044,6 +9139,11 @@
       "epgid": "平昌综合",
       "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/平昌综合.png",
       "name": "平昌综合,"
+    },
+    {
+      "epgid": "平湖新闻综合",
+      "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/平湖新闻综合.png",
+      "name": "平湖新闻综合,"
     },
     {
       "epgid": "平潭",
@@ -9636,6 +9736,11 @@
       "name": "文山新闻综合,"
     },
     {
+      "epgid": "文成综合",
+      "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/文成综合.png",
+      "name": "文成综合,"
+    },
+    {
       "epgid": "文物宝库",
       "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/文物宝库.png",
       "name": "文物宝库,河南文物宝库"
@@ -9709,6 +9814,16 @@
       "epgid": "新娱乐",
       "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/新娱乐.png",
       "name": "新娱乐,"
+    },
+    {
+      "epgid": "新昌新闻综合",
+      "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/新昌新闻综合.png",
+      "name": "新昌新闻综合,"
+    },
+    {
+      "epgid": "新昌生活频道",
+      "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/新昌生活频道.png",
+      "name": "新昌生活频道,"
     },
     {
       "epgid": "新片院",
@@ -9961,6 +10076,11 @@
       "name": "普陀,"
     },
     {
+      "epgid": "景宁新闻综合",
+      "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/景宁新闻综合.png",
+      "name": "景宁新闻综合,"
+    },
+    {
       "epgid": "景洪台",
       "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/景洪台.png",
       "name": "景洪台,"
@@ -10091,6 +10211,11 @@
       "name": "杭州生活,杭州3生活,杭州生活高清"
     },
     {
+      "epgid": "杭州电视台",
+      "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/杭州电视台.png",
+      "name": "杭州电视台,"
+    },
+    {
       "epgid": "杭州移动",
       "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/杭州移动.png",
       "name": "杭州移动,"
@@ -10136,6 +10261,11 @@
       "name": "松视3,"
     },
     {
+      "epgid": "松阳综合频道",
+      "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/松阳综合频道.png",
+      "name": "松阳综合频道,"
+    },
+    {
       "epgid": "极速汽车",
       "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/极速汽车.png",
       "name": "极速汽车,"
@@ -10144,6 +10274,16 @@
       "epgid": "柘荣",
       "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/柘荣.png",
       "name": "柘荣,"
+    },
+    {
+      "epgid": "柯桥新闻综合",
+      "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/柯桥新闻综合.png",
+      "name": "柯桥新闻综合,"
+    },
+    {
+      "epgid": "桐庐新闻综合",
+      "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/桐庐新闻综合.png",
+      "name": "桐庐新闻综合,"
     },
     {
       "epgid": "梅县",
@@ -10254,6 +10394,11 @@
       "epgid": "正德电视",
       "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/正德电视.png",
       "name": "正德电视,"
+    },
+    {
+      "epgid": "武义新闻综合",
+      "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/武义新闻综合.png",
+      "name": "武义新闻综合,"
     },
     {
       "epgid": "武夷山",
@@ -10376,6 +10521,16 @@
       "name": "永定,"
     },
     {
+      "epgid": "永康华溪频道",
+      "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/永康华溪频道.png",
+      "name": "永康华溪频道,"
+    },
+    {
+      "epgid": "永康新闻综合",
+      "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/永康新闻综合.png",
+      "name": "永康新闻综合,"
+    },
+    {
       "epgid": "永春",
       "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/永春.png",
       "name": "永春,"
@@ -10484,6 +10639,11 @@
       "epgid": "汕尾综合",
       "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/汕尾综合.png",
       "name": "汕尾综合,"
+    },
+    {
+      "epgid": "江山新闻综合",
+      "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/江山新闻综合.png",
+      "name": "江山新闻综合,"
     },
     {
       "epgid": "江苏",
@@ -11101,6 +11261,11 @@
       "name": "海口3,"
     },
     {
+      "epgid": "海宁新闻综合",
+      "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/海宁新闻综合.png",
+      "name": "海宁新闻综合,"
+    },
+    {
       "epgid": "海峡卫视",
       "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/海峡卫视.png",
       "name": "海峡卫视,海峡卫视,福建海峡卫视"
@@ -11284,6 +11449,21 @@
       "epgid": "渠县新闻综合",
       "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/渠县新闻综合.png",
       "name": "渠县新闻综合,"
+    },
+    {
+      "epgid": "温岭新闻综合",
+      "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/温岭新闻综合.png",
+      "name": "温岭新闻综合,"
+    },
+    {
+      "epgid": "温岭民生休闲",
+      "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/温岭民生休闲.png",
+      "name": "温岭民生休闲,"
+    },
+    {
+      "epgid": "温州新闻综合",
+      "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/温州新闻综合.png",
+      "name": "温州新闻综合,"
     },
     {
       "epgid": "温江",
@@ -11696,6 +11876,11 @@
       "name": "猪哥亮歌厅秀,"
     },
     {
+      "epgid": "玉环新闻综合",
+      "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/玉环新闻综合.png",
+      "name": "玉环新闻综合,"
+    },
+    {
       "epgid": "环宇电影",
       "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/环宇电影.png",
       "name": "环宇电影,"
@@ -11759,6 +11944,11 @@
       "epgid": "珠海综合",
       "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/珠海综合.png",
       "name": "珠海综合,"
+    },
+    {
+      "epgid": "瑞安新闻综合",
+      "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/瑞安新闻综合.png",
+      "name": "瑞安新闻综合,"
     },
     {
       "epgid": "瓮安综合",
@@ -12009,6 +12199,16 @@
       "epgid": "石狮",
       "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/石狮.png",
       "name": "石狮,"
+    },
+    {
+      "epgid": "磐安文化生活",
+      "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/磐安文化生活.png",
+      "name": "磐安文化生活,"
+    },
+    {
+      "epgid": "磐安新闻综合",
+      "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/磐安新闻综合.png",
+      "name": "磐安新闻综合,"
     },
     {
       "epgid": "神州新闻",
@@ -12266,6 +12466,16 @@
       "name": "纯享4K,4KUHD,4K央视,纯享4K1,纯享4K2,纯享4KUHD,纯享超清,纯享频道"
     },
     {
+      "epgid": "绍兴公共频道",
+      "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/绍兴公共频道.png",
+      "name": "绍兴公共频道,"
+    },
+    {
+      "epgid": "绍兴文化影视",
+      "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/绍兴文化影视.png",
+      "name": "绍兴文化影视,"
+    },
+    {
       "epgid": "绍兴新闻综合",
       "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/绍兴新闻综合.png",
       "name": "绍兴新闻综合,"
@@ -12309,6 +12519,11 @@
       "epgid": "维语经济生活",
       "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/维语经济生活.png",
       "name": "维语经济生活,"
+    },
+    {
+      "epgid": "缙云新闻综合",
+      "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/缙云新闻综合.png",
+      "name": "缙云新闻综合,"
     },
     {
       "epgid": "网络棋牌",
@@ -12501,6 +12716,11 @@
       "name": "花系列经典剧场,"
     },
     {
+      "epgid": "苍南新闻综合",
+      "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/苍南新闻综合.png",
+      "name": "苍南新闻综合,"
+    },
+    {
       "epgid": "苏州4K",
       "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/苏州4K.png",
       "name": "苏州4K,"
@@ -12576,6 +12796,11 @@
       "name": "营口新闻综合,"
     },
     {
+      "epgid": "萧山新闻综合",
+      "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/萧山新闻综合.png",
+      "name": "萧山新闻综合,"
+    },
+    {
       "epgid": "葫芦岛",
       "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/葫芦岛.png",
       "name": "葫芦岛,"
@@ -12604,6 +12829,11 @@
       "epgid": "衢州新闻综合",
       "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/衢州新闻综合.png",
       "name": "衢州新闻综合,"
+    },
+    {
+      "epgid": "衢江新闻综合",
+      "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/衢江新闻综合.png",
+      "name": "衢江新闻综合,"
     },
     {
       "epgid": "西乡",
@@ -12734,6 +12964,16 @@
       "epgid": "诚心电视",
       "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/诚心电视.png",
       "name": "诚心电视,"
+    },
+    {
+      "epgid": "诸暨新闻综合",
+      "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/诸暨新闻综合.png",
+      "name": "诸暨新闻综合,"
+    },
+    {
+      "epgid": "象山新闻综合",
+      "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/象山新闻综合.png",
+      "name": "象山新闻综合,"
     },
     {
       "epgid": "财富",
@@ -13014,6 +13254,11 @@
       "epgid": "通辽蒙语",
       "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/通辽蒙语.png",
       "name": "通辽蒙语,"
+    },
+    {
+      "epgid": "遂昌综合频道",
+      "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/遂昌综合频道.png",
+      "name": "遂昌综合频道,"
     },
     {
       "epgid": "邵武",
@@ -13434,6 +13679,11 @@
       "epgid": "青海都市",
       "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/青海都市.png",
       "name": "青海都市,"
+    },
+    {
+      "epgid": "青田电视台",
+      "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/青田电视台.png",
+      "name": "青田电视台,"
     },
     {
       "epgid": "靓妆",
@@ -13861,6 +14111,11 @@
       "name": "龙岩,"
     },
     {
+      "epgid": "龙泉新闻综合",
+      "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/龙泉新闻综合.png",
+      "name": "龙泉新闻综合,"
+    },
+    {
       "epgid": "龙海",
       "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/龙海.png",
       "name": "龙海,"
@@ -13869,6 +14124,21 @@
       "epgid": "龙港",
       "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/龙港.png",
       "name": "龙港,"
+    },
+    {
+      "epgid": "龙港综合频道",
+      "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/龙港综合频道.png",
+      "name": "龙港综合频道,"
+    },
+    {
+      "epgid": "龙游新闻综合",
+      "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/龙游新闻综合.png",
+      "name": "龙游新闻综合,"
+    },
+    {
+      "epgid": "龙游生活娱乐",
+      "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/龙游生活娱乐.png",
+      "name": "龙游生活娱乐,"
     },
     {
       "epgid": "龙祥时代",
