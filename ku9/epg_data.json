@@ -4128,12 +4128,12 @@
     {
       "epgid": "SCTV2",
       "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/SCTV2.png",
-      "name": "SCTV2,SCTV-02经济,SCTV-2,SCTV3文化旅游,四川文化旅游,四川文旅,四川文旅高清,四川电影"
+      "name": "SCTV2,SCTV-02经济,SCTV3文化旅游,四川文化旅游,四川文旅,四川文旅高清,四川电影"
     },
     {
       "epgid": "SCTV3",
       "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/SCTV3.png",
-      "name": "SCTV3,SCTV2经济高清,SCTV-3,四川文化,四川经,四川经济,四川经济频道,四川经济高清,四川经视"
+      "name": "SCTV3,SCTV2经济高清,四川文化,四川经,四川经济,四川经济频道,四川经济高清,四川经视"
     },
     {
       "epgid": "SCTV4",
@@ -7808,7 +7808,7 @@
     {
       "epgid": "四川卫视",
       "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/四川卫视.png",
-      "name": "四川卫视,46.四川卫视-1080P,SCTV1四川卫视,四川卫视F,四川卫视HD,四川电视台"
+      "name": "四川卫视,46.四川卫视-1080P,SCTV,SCTV1四川卫视,四川卫视F,四川卫视HD,四川电视台"
     },
     {
       "epgid": "四川叙州",
@@ -7948,7 +7948,7 @@
     {
       "epgid": "四川影视文艺",
       "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/四川影视文艺.png",
-      "name": "四川影视文艺,"
+      "name": "四川影视文艺,SCTV-5"
     },
     {
       "epgid": "四川德阳",
@@ -7973,7 +7973,7 @@
     {
       "epgid": "四川文化旅游",
       "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/四川文化旅游.png",
-      "name": "四川文化旅游,"
+      "name": "四川文化旅游,SCTV-3"
     },
     {
       "epgid": "四川新津",
@@ -7988,7 +7988,7 @@
     {
       "epgid": "四川新闻",
       "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/四川新闻.png",
-      "name": "四川新闻,"
+      "name": "四川新闻,SCTV-4"
     },
     {
       "epgid": "四川旌阳",
@@ -8098,7 +8098,7 @@
     {
       "epgid": "四川经济",
       "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/四川经济.png",
-      "name": "四川经济,"
+      "name": "四川经济,SCTV-2"
     },
     {
       "epgid": "四川绵阳",
