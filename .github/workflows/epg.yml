@@ -29,9 +29,9 @@ jobs:
             xml_file="epg/$filename"
             xml_file_tmp="$xml_file.tmp"
             if [[ "$url" == "https://assets.livednow.com/epg.xml" ]]; then
-              curl --retry 5 -x "$PROXY_URL" -o "$xml_file_tmp" "$url" || true
+              curl -k --retry 5 -x "$PROXY_URL" -o "$xml_file_tmp" "$url" || true
             else
-              curl --retry 5 -o "$xml_file_tmp" "$url" || true
+              curl -k --retry 5 -o "$xml_file_tmp" "$url" || true
             fi
 
             # 如果 URL 包含 epg.pw，替换内容
