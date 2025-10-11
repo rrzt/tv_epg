@@ -72,7 +72,7 @@ jobs:
 
       - name: Fetch and Parse 51zmt Icons
         run: |
-          if curl --fail -o assets/51zmt.m3u.tmp https://epg.51zmt.top:8001/test.m3u; then
+          if curl -k --fail -o assets/51zmt.m3u.tmp https://epg.51zmt.top:8001/test.m3u; then
             mv assets/51zmt.m3u.tmp assets/51zmt.m3u
           else
             rm assets/51zmt.m3u.tmp 2>/dev/null
