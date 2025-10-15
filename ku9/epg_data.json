@@ -633,7 +633,7 @@
     {
       "epgid": "CGTN俄语",
       "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CGTN俄语.png",
-      "name": "CGTN俄语,76.CGTN俄语-1080P,CGTNPУССКИЙ,CGTNРУССКИЙ,CGTN-俄罗斯语,CGTN-俄语,CGTN-俄语国际,国际俄语,环球电视俄语"
+      "name": "CGTN俄语,76.CGTN俄语-1080P,CGTNPУССКИЙ,CGTNРУССКИЙ,CGTN-РУССКИЙ俄语,CGTN-俄罗斯语,CGTN-俄语,CGTN-俄语国际,国际俄语,环球电视俄语"
     },
     {
       "epgid": "CGTN法语",
@@ -643,7 +643,7 @@
     {
       "epgid": "CGTN纪录",
       "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CGTN纪录.png",
-      "name": "CGTN纪录,CGTN-DOCUMENTARY,CGTNDOCUMENTARY,CGTN-DOCUMENTARY高清,CGTN纪录,CGTN-纪录,CGTN-纪录国际,CGTN-纪录国际版,环球电视纪录"
+      "name": "CGTN纪录,CGTN-DOCUMENTARY,CGTNDOCUMENTARY,CGTN-DOCUMENTARY纪实,CGTN-DOCUMENTARY高清,CGTN-纪实,CGTN纪录,CGTN-纪录,CGTN-纪录国际,CGTN-纪录国际版,环球电视纪录"
     },
     {
       "epgid": "CGTN英语",
@@ -658,7 +658,7 @@
     {
       "epgid": "CGTN西语",
       "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CGTN西语.png",
-      "name": "CGTN西语,78.CGTN西班牙语-1080P,CGTNESPAÑOL,CGTN西班牙,CGTN西班牙语,CGTN-西班牙语,CGTN-西班牙语国际,国际西语,环球电视西语"
+      "name": "CGTN西语,78.CGTN西班牙语-1080P,CGTNESPAÑOL,CGTN-ESPAÑOL西班牙语,CGTN西班牙,CGTN西班牙语,CGTN-西班牙语,CGTN-西班牙语国际,国际西语,环球电视西语"
     },
     {
       "epgid": "CGTN记录",
@@ -673,7 +673,7 @@
     {
       "epgid": "CGTN阿语",
       "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CGTN阿语.png",
-      "name": "CGTN阿语,75.CGTN阿拉伯语-1080P,CGTN-العربية,CGTNالعربية,CGTN阿拉伯语,CGTN-阿拉伯语,CGTN-阿拉伯语国际,国际阿语,环球电视阿语"
+      "name": "CGTN阿语,75.CGTN阿拉伯语-1080P,CGTN-العربية,CGTNالعربية,CGTN-العربية阿拉伯语,CGTN阿拉伯语,CGTN-阿拉伯语,CGTN-阿拉伯语国际,国际阿语,环球电视阿语"
     },
     {
       "epgid": "CHAMPIONTV1",
@@ -7288,7 +7288,7 @@
     {
       "epgid": "卡酷少儿",
       "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/卡酷少儿.png",
-      "name": "卡酷少儿,67.北京卡酷少儿-1080P,BTV卡酷少儿,KAKU少儿,北京卡酷少儿,北京卡酷少儿F,北京少儿,卡酷动画"
+      "name": "卡酷少儿,67.北京卡酷少儿-1080P,BRTVKAKU少儿,BTV卡酷少儿,KAKU少儿,北京卡酷少儿,北京卡酷少儿F,北京少儿,卡酷动画"
     },
     {
       "epgid": "卫生健康",
@@ -13028,7 +13028,7 @@
     {
       "epgid": "贵州大众生活",
       "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/贵州大众生活.png",
-      "name": "贵州大众生活,贵州-4,贵州-4大众生活,贵州-4生活,贵州-5乡村,贵州卫视-3,贵州卫视-4,贵州生活,贵州生活高清"
+      "name": "贵州大众生活,贵州-4,贵州-4大众生活,贵州-4大众生活频道,贵州-4生活,贵州-5乡村,贵州卫视-3,贵州卫视-4,贵州生活,贵州生活高清"
     },
     {
       "epgid": "贵州文艺",
@@ -13043,7 +13043,7 @@
     {
       "epgid": "贵州科教健康",
       "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/贵州科教健康.png",
-      "name": "贵州科教健康,贵州-6,贵州-6科教,贵州-6科教健康,贵州卫视-6"
+      "name": "贵州科教健康,贵州-6,贵州-6科教,贵州-6科教健康,贵州-6科教健康频道,贵州卫视-6"
     },
     {
       "epgid": "贵州移动电视",
@@ -13908,7 +13908,7 @@
     {
       "epgid": "高尔夫网球",
       "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/高尔夫网球.png",
-      "name": "高尔夫网球,CCTV-央视高网F,CCTV-央视高网IPV6,CCTV高尔夫网球,CCTV-高尔夫网球,CCTV-高尔夫•网球,CCTV高尔夫.网球,CCTV高尔夫·网球,CCTV高尔夫•网球,CCTV高网,中数高尔夫网球,央视高尔夫网球,央视高网,高尔夫.网球,高网,高网频道,高网高清"
+      "name": "高尔夫网球,CCTV-央视高网F,CCTV-央视高网IPV6,CCTV高尔夫网球,CCTV-高尔夫网球,CCTV-高尔夫·网球,CCTV-高尔夫•网球,CCTV高尔夫.网球,CCTV高尔夫·网球,CCTV高尔夫•网球,CCTV高网,中数高尔夫网球,央视高尔夫网球,央视高网,高尔夫.网球,高网,高网频道,高网高清"
     },
     {
       "epgid": "高清剧场",
