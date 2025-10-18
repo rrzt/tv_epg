@@ -5878,7 +5878,7 @@
     {
       "epgid": "中视",
       "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/中视.png",
-      "name": "中视,010中視,JW,[TW]中视,[TW]中视LINE1,中視,台湾中视"
+      "name": "中视,010中視,JW,[TW]中视,[TW]中视LINE1,中視,中視CTV,台湾中视"
     },
     {
       "epgid": "中视新闻",
@@ -7468,7 +7468,7 @@
     {
       "epgid": "台视",
       "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/台视.png",
-      "name": "台视,008台視,[TW]台视,ZZZZ,台視"
+      "name": "台视,008台視,[TW]台视,ZZZZ,台視,台視TTV"
     },
     {
       "epgid": "台视新闻",
