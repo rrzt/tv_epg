@@ -428,7 +428,7 @@
     {
       "epgid": "CCTV1",
       "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1.png",
-      "name": "CCTV1,1⃣️,1111,19.CCTV-1综合-1080P,1.CCTV-1综合-1080P,AA,CCTC1综合频道,CCTV0001,CCTV_01,CCTV-01综合,CCTV_01综合,CCTV---1,CCTV-1,CCTV_1,CCTV11080,CCTV1[1920*1080],CCTV1-4K,CCTV1-4K1,CCTV1-4K2,CCTV1-4K3,CCTV1-4K4,CCTV1-4K5,CCTV1-4K6,CCTV18M,CCTV18M1080,CCTV199,CCTV1.CN,CCTV1F,CCTV1H,CCTV-1-HD,CCTV1-HD,CCTV-1HD,CCTV1HD,CCTV1「IPTV」,CCTV1MAX16M1080,CCTV-1綜合頻道,CCTV-1_综合,CCTV1-综合,CCTV-1综合,CCTV1综合,CCTV1综合1,CCTV-1综合（1080P）,CCTV1综合HD,CCTV1-综合频道,CCTV-1综合频道,CCTV1综合频道,CCTV-1综合(高清),CCTV-1综合[高清],CCTV1综合高清,CCTV1综合(高清),CCTV1超高清,CCTV1-高清,CCTV1（高清）,CCTV-1高清,CCTV1高清,CCTV1高清综合,CCTV1-高码,CCTV99999,CCTVL,CCTV中央一套,CCTV体育,CCTV综合,CCTV-综合,CCTV综合.备用,CHENDBDB,CHNCCTV1.CN,QWE,中一,中央①,中央1台,中央一,中央一台,中央一套,中央一套高清,中央电视台1,中央综合,凯悦宾馆CCTV1综合,嘻嘻体委一,大海里的鱼,央视,央视-1,央视1套,实打实的,综合,综合1台,综合一台,聊城,范德萨范德萨"
+      "name": "CCTV1,1⃣️,1111,19.CCTV-1综合-1080P,1.CCTV-1综合-1080P,AA,CCTC1综合频道,CCTV0001,CCTV_01,CCTV-01-HD,CCTV-01综合,CCTV_01综合,CCTV---1,CCTV-1,CCTV_1,CCTV11080,CCTV1[1920*1080],CCTV1-4K,CCTV1-4K1,CCTV1-4K2,CCTV1-4K3,CCTV1-4K4,CCTV1-4K5,CCTV1-4K6,CCTV18M,CCTV18M1080,CCTV199,CCTV1.CN,CCTV1F,CCTV1H,CCTV-1-HD,CCTV1-HD,CCTV-1HD,CCTV1HD,CCTV1「IPTV」,CCTV1MAX16M1080,CCTV-1綜合頻道,CCTV-1_综合,CCTV1-综合,CCTV-1综合,CCTV1综合,CCTV1综合1,CCTV-1综合（1080P）,CCTV1综合HD,CCTV1-综合频道,CCTV-1综合频道,CCTV1综合频道,CCTV-1综合(高清),CCTV-1综合[高清],CCTV1综合高清,CCTV1综合(高清),CCTV1超高清,CCTV1-高清,CCTV1（高清）,CCTV-1高清,CCTV1高清,CCTV1高清综合,CCTV1-高码,CCTV99999,CCTVL,CCTV中央一套,CCTV体育,CCTV综合,CCTV-综合,CCTV综合.备用,CHENDBDB,CHNCCTV1.CN,QWE,中一,中央①,中央1台,中央一,中央一台,中央一套,中央一套高清,中央电视台1,中央综合,凯悦宾馆CCTV1综合,嘻嘻体委一,大海里的鱼,央视,央视-1,央视1套,实打实的,综合,综合1台,综合一台,聊城,范德萨范德萨"
     },
     {
       "epgid": "CCTV10",
@@ -508,12 +508,12 @@
     {
       "epgid": "CCTV4欧洲",
       "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV4欧洲.png",
-      "name": "CCTV4欧洲,CCTV4EUO,CCTV4-中文国际欧洲,CCTV-4中文国际欧洲,CCTV4-国际欧洲,CCTV-4欧洲,中文欧洲,央视欧洲"
+      "name": "CCTV4欧洲,CCTV-04-歐洲台-HD,CCTV4EUO,CCTV4-中文国际欧洲,CCTV-4中文国际欧洲,CCTV4-国际欧洲,CCTV-4欧洲,中文欧洲,央视欧洲"
     },
     {
       "epgid": "CCTV4美洲",
       "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV4美洲.png",
-      "name": "CCTV4美洲,CCTV4AME,CCTV4-中文国际美洲,CCTV-4中文国际美洲,CCTV4-国际美洲,CCTV-4美洲,中文美洲,央视美洲"
+      "name": "CCTV4美洲,CCTV-04-美洲台-HD,CCTV4AME,CCTV4-中文国际美洲,CCTV-4中文国际美洲,CCTV4-国际美洲,CCTV-4美洲,中文美洲,央视美洲"
     },
     {
       "epgid": "CCTV5+",
@@ -618,7 +618,7 @@
     {
       "epgid": "CGTN",
       "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CGTN.png",
-      "name": "CGTN,73.CGTN-1080P,CCTV-NEWS,CGTN.CN,CGTN-NEWS,CGTN中国国际,CGTN国际,CGTN新闻,CGTN-新闻,CGTN英语,CGTN-英语新闻,CGTN高清,CGTVIPV6,国际英语,环球电视"
+      "name": "CGTN,73.CGTN-1080P,CCTV-NEWS,CGTN.CN,CGTN-NEWS,CGTN中国国际,CGTN国际,CGTN新闻,CGTN-新闻,CGTN-英語-HD,CGTN英语,CGTN-英语新闻,CGTN高清,CGTVIPV6,国际英语,环球电视"
     },
     {
       "epgid": "CGTNDOC",
@@ -633,17 +633,17 @@
     {
       "epgid": "CGTN俄语",
       "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CGTN俄语.png",
-      "name": "CGTN俄语,76.CGTN俄语-1080P,CGTNPУССКИЙ,CGTNРУССКИЙ,CGTN-РУССКИЙ俄语,CGTN-俄罗斯语,CGTN-俄语,CGTN-俄语国际,国际俄语,环球电视俄语"
+      "name": "CGTN俄语,76.CGTN俄语-1080P,CGTNPУССКИЙ,CGTNРУССКИЙ,CGTN-РУССКИЙ俄语,CGTN-俄罗斯语,CGTN-俄語-HD,CGTN-俄语,CGTN-俄语国际,国际俄语,环球电视俄语"
     },
     {
       "epgid": "CGTN法语",
       "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CGTN法语.png",
-      "name": "CGTN法语,77.CGTN法语-1080P,CGTNFRANÇAIS,CGTN-FRANCAIS法语,CGTN法语,CGTN-法语,CGTN-法语国际,国际法语,环球电视法语"
+      "name": "CGTN法语,77.CGTN法语-1080P,CGTNFRANÇAIS,CGTN-FRANCAIS法语,CGTN-法語-HD,CGTN法语,CGTN-法语,CGTN-法语国际,国际法语,环球电视法语"
     },
     {
       "epgid": "CGTN纪录",
       "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CGTN纪录.png",
-      "name": "CGTN纪录,CGTN-DOCUMENTARY,CGTNDOCUMENTARY,CGTN-DOCUMENTARY纪实,CGTN-DOCUMENTARY高清,CGTN-纪实,CGTN纪录,CGTN-纪录,CGTN-纪录国际,CGTN-纪录国际版,环球电视纪录"
+      "name": "CGTN纪录,CGTN-DOC-HD,CGTN-DOCUMENTARY,CGTNDOCUMENTARY,CGTN-DOCUMENTARY纪实,CGTN-DOCUMENTARY高清,CGTN-纪实,CGTN纪录,CGTN-纪录,CGTN-纪录国际,CGTN-纪录国际版,环球电视纪录"
     },
     {
       "epgid": "CGTN英语",
@@ -658,7 +658,7 @@
     {
       "epgid": "CGTN西语",
       "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CGTN西语.png",
-      "name": "CGTN西语,78.CGTN西班牙语-1080P,CGTNESPAÑOL,CGTN-ESPAÑOL西班牙语,CGTN西班牙,CGTN西班牙语,CGTN-西班牙语,CGTN-西班牙语国际,国际西语,环球电视西语"
+      "name": "CGTN西语,78.CGTN西班牙语-1080P,CGTNESPAÑOL,CGTN-ESPAÑOL西班牙语,CGTN西班牙,CGTN西班牙语,CGTN-西班牙语,CGTN-西班牙语国际,CGTN-西語-HD,国际西语,环球电视西语"
     },
     {
       "epgid": "CGTN记录",
@@ -673,7 +673,7 @@
     {
       "epgid": "CGTN阿语",
       "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CGTN阿语.png",
-      "name": "CGTN阿语,75.CGTN阿拉伯语-1080P,CGTN-العربية,CGTNالعربية,CGTN-العربية阿拉伯语,CGTN阿拉伯语,CGTN-阿拉伯语,CGTN-阿拉伯语国际,国际阿语,环球电视阿语"
+      "name": "CGTN阿语,75.CGTN阿拉伯语-1080P,CGTN-العربية,CGTNالعربية,CGTN-العربية阿拉伯语,CGTN阿拉伯语,CGTN-阿拉伯语,CGTN-阿拉伯语国际,CGTN-阿語-HD,国际阿语,环球电视阿语"
     },
     {
       "epgid": "CHAMPIONTV1",
@@ -698,12 +698,12 @@
     {
       "epgid": "CHC动作电影",
       "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CHC动作电影.png",
-      "name": "CHC动作电影,CHCATV,CHC动作,📀CHC动作电影,CHC-动作电影,CHC动作电影F,CHC动作电影IPV6,动作电影HD"
+      "name": "CHC动作电影,CHCATV,CHC动作,📀CHC动作电影,CHC-动作电影,CHC动作电影F,CHC动作电影IPV6,CHC-動作電影-HD,动作电影HD"
     },
     {
       "epgid": "CHC家庭影院",
       "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CHC家庭影院.png",
-      "name": "CHC家庭影院,CHCTV,CHC家庭,📀CHC家庭影院,CHC-家庭影院,CHC家庭影院F,CHC家庭影院IPV6,CHC家庭电影,家庭影院HD"
+      "name": "CHC家庭影院,CHCTV,CHC家庭,📀CHC家庭影院,CHC-家庭影院,CHC家庭影院F,CHC-家庭影院-HD,CHC家庭影院IPV6,CHC家庭电影,家庭影院HD"
     },
     {
       "epgid": "CHC家庭电影",
@@ -718,7 +718,7 @@
     {
       "epgid": "CHC高清电影",
       "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CHC高清电影.png",
-      "name": "CHC高清电影,CHCHD,CHC影迷电影,CHC影迷电影高清,CHC高清,📀CHC高清电影,CHC-高清电影,CHC高清电影F,CHC高清电影IPV6"
+      "name": "CHC高清电影,CHCHD,CHC影迷电影,CHC影迷电影高清,CHC-影迷電影-HD,CHC高清,📀CHC高清电影,CHC-高清电影,CHC高清电影F,CHC高清电影IPV6"
     },
     {
       "epgid": "CHONGQING",
@@ -4153,7 +4153,7 @@
     {
       "epgid": "SCTV8",
       "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/SCTV8.png",
-      "name": "SCTV8,SCTV8科教高清,四川科教,四川科教频道,四川科教高清"
+      "name": "SCTV8,SCTV8科教高清,四川科教频道,四川科教高清"
     },
     {
       "epgid": "SCTV9",
@@ -5733,7 +5733,7 @@
     {
       "epgid": "中国天气",
       "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/中国天气.png",
-      "name": "中国天气,CWTV-中国气象,中国气象,中国气象标清"
+      "name": "中国天气,CWTV-中国气象,中国气象,中国气象标清,中國天氣-HD"
     },
     {
       "epgid": "中国教育1",
@@ -8098,7 +8098,7 @@
     {
       "epgid": "四川经济",
       "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/四川经济.png",
-      "name": "四川经济,SCTV-2"
+      "name": "四川经济,SCTV-2,四川經濟-SCTV-02-HD"
     },
     {
       "epgid": "四川绵阳",
@@ -8968,7 +8968,7 @@
     {
       "epgid": "山东教育",
       "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/山东教育.png",
-      "name": "山东教育,山东😊教育"
+      "name": "山东教育,山东😊教育,山東教育衛視-HD"
     },
     {
       "epgid": "山东教育卫视",
