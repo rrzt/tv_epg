@@ -563,32 +563,32 @@
     {
       "epgid": "CDTV1",
       "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CDTV1.png",
-      "name": "CDTV1,CDTV1新闻综合,CDTV-1综合,成都新闻综合,成都综合,成都综合高清"
+      "name": "CDTV1,CDTV-01,CDTV1新闻综合,CDTV-1综合,成都新闻综合,成都综合,成都综合高清"
     },
     {
       "epgid": "CDTV2",
       "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CDTV2.png",
-      "name": "CDTV2,CDTV-2经济,CDTV2经济资讯,成都经济,成都经济咨询,成都经济资讯"
+      "name": "CDTV2,CDTV-02,CDTV-2经济,CDTV2经济资讯,成都经济,成都经济咨询,成都经济资讯"
     },
     {
       "epgid": "CDTV3",
       "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CDTV3.png",
-      "name": "CDTV3,CDTV-3生活,CDTV3都市生活,成都生活,成都生活高清,成都都市,成都都市生活"
+      "name": "CDTV3,CDTV-03,CDTV-3生活,CDTV3都市生活,成都生活,成都生活高清,成都都市,成都都市生活"
     },
     {
       "epgid": "CDTV4",
       "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CDTV4.png",
-      "name": "CDTV4,CDTV-4影视,CDTV4影视文艺,成都影视,成都影视文艺"
+      "name": "CDTV4,CDTV-04,CDTV-4影视,CDTV4影视文艺,成都影视,成都影视文艺"
     },
     {
       "epgid": "CDTV5",
       "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CDTV5.png",
-      "name": "CDTV5,CDTV-5公共,CDTV5公共高清,成都公共,成都公共频道,成都公共高清"
+      "name": "CDTV5,CDTV-05,CDTV-5公共,CDTV5公共高清,成都公共,成都公共频道,成都公共高清"
     },
     {
       "epgid": "CDTV6",
       "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CDTV6.png",
-      "name": "CDTV6,CDTV6少儿,CDTV6少儿频道,成都少儿,成都少儿频道"
+      "name": "CDTV6,CDTV-06,CDTV6少儿,CDTV6少儿频道,成都少儿,成都少儿频道"
     },
     {
       "epgid": "CETV1",
@@ -4133,22 +4133,22 @@
     {
       "epgid": "SCTV3",
       "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/SCTV3.png",
-      "name": "SCTV3,SCTV2经济高清,四川文化,四川经,四川经济,四川经济频道,四川经济高清,四川经视"
+      "name": "SCTV3,SCTV-03,SCTV2经济高清,四川文化,四川经,四川经济,四川经济频道,四川经济高清,四川经视"
     },
     {
       "epgid": "SCTV4",
       "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/SCTV4.png",
-      "name": "SCTV4,SCTV4新闻高清,四川新闻,四川新闻资讯,四川新闻高清"
+      "name": "SCTV4,SCTV-04,SCTV4新闻高清,四川新闻,四川新闻资讯,四川新闻高清"
     },
     {
       "epgid": "SCTV5",
       "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/SCTV5.png",
-      "name": "SCTV5,SCTV5影视文艺,四川影视,四川影视文艺,四川影视高清"
+      "name": "SCTV5,SCTV-05,SCTV5影视文艺,四川影视,四川影视文艺,四川影视高清"
     },
     {
       "epgid": "SCTV7",
       "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/SCTV7.png",
-      "name": "SCTV7,SCTV-7,SCTV7妇女儿童,四川儿童,四川儿童高清,四川妇儿,四川妇女,四川妇女儿童"
+      "name": "SCTV7,SCTV-07,SCTV-7,SCTV7妇女儿童,四川儿童,四川儿童高清,四川妇儿,四川妇女,四川妇女儿童"
     },
     {
       "epgid": "SCTV8",
@@ -13123,7 +13123,7 @@
     {
       "epgid": "辽宁体育",
       "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/辽宁体育.png",
-      "name": "辽宁体育,"
+      "name": "辽宁体育,辽宁体育休闲"
     },
     {
       "epgid": "辽宁公共",
