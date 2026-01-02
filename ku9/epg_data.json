@@ -433,7 +433,7 @@
     {
       "epgid": "CCTV10",
       "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV10.png",
-      "name": "CCTV10,30.CCTV-10科教-1080P,CCTV-10,CCTV10H,CCTV10HD,CCTV-10科学,CCTV-10科教,CCTV-10_科教,CCTV_10科教,CCTV10科教,CCTV-10高清,CCTV科教,CCTV科教.备用,中央10台,中央十台,中央十套,中央电视台10,中央科教,央视-10,科教10台"
+      "name": "CCTV10,30.CCTV-10科教-1080P,CCTV-10,CCTV10H,CCTV10HD,CCTV-10科学,CCTV-10科教,CCTV-10_科教,CCTV_10科教,CCTV10科教,CCTV10科教HD,CCTV-10高清,CCTV科教,CCTV科教.备用,中央10台,中央十台,中央十套,中央电视台10,中央科教,央视-10,科教10台"
     },
     {
       "epgid": "CCTV11",
@@ -443,12 +443,12 @@
     {
       "epgid": "CCTV12",
       "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV12.png",
-      "name": "CCTV12,32.CCTV-12社会与法-1080P,CCTV-12,CCTV12H,CCTV12HD,CCTV-12法治,CCTV-12社会,CCTV-12社会与法,CCTV-12_社会与法,CCTV-12_社会与法,,CCTV_12社会与法,CCTV12社会与法,CCTV-12社会与法-1080P,CCTV-12社会与法HD,CCTV-12高清,CCTV法制,CCTV法制.备用,中央12台,中央十二套,中央十二高清,中央电视台12,中央社法,央视-12,社会与法12台"
+      "name": "CCTV12,32.CCTV-12社会与法-1080P,CCTV-12,CCTV12H,CCTV12HD,CCTV-12法治,CCTV12法治HD,CCTV-12社会,CCTV-12社会与法,CCTV-12_社会与法,CCTV-12_社会与法,,CCTV_12社会与法,CCTV12社会与法,CCTV-12社会与法-1080P,CCTV-12社会与法HD,CCTV-12高清,CCTV法制,CCTV法制.备用,中央12台,中央十二套,中央十二高清,中央电视台12,中央社法,央视-12,社会与法12台"
     },
     {
       "epgid": "CCTV13",
       "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV13.png",
-      "name": "CCTV13,13新闻,20.CCTV-13新闻-1080P,CCTV-13,CCTV13.CN,CCTV13F,CCTV13H,CCTV13HD,CCTV-13新闻,CCTV-13_新闻,CCTV_13新闻,CCTV13新闻,CCTV-13高清,🆕CCTV13,🆕CCTV新闻,中央13台,中央-13高清,中央新闻,中央新闻高清,中央电视台13,央視新聞,央视-13,央视新闻,新闻13台"
+      "name": "CCTV13,13新闻,20.CCTV-13新闻-1080P,CCTV-13,CCTV13.CN,CCTV13F,CCTV13H,CCTV13HD,CCTV-13新闻,CCTV-13_新闻,CCTV_13新闻,CCTV13新闻,CCTV13新闻HD,CCTV-13高清,🆕CCTV13,🆕CCTV新闻,中央13台,中央-13高清,中央新闻,中央新闻高清,中央电视台13,央視新聞,央视-13,央视新闻,新闻13台"
     },
     {
       "epgid": "CCTV14",
@@ -458,7 +458,7 @@
     {
       "epgid": "CCTV15",
       "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV15.png",
-      "name": "CCTV15,34.CCTV-15音乐-1080P,C15C15,CCTV-15,CCTV15.CN,CCTV15H,CCTV15HD,CCTV-15音乐,CCTV-15_音乐,CCTV_15音乐,CCTV15音乐,CCTV-15音乐HD,CCTV-15高清,CCTV音乐,CCTV音乐HD,CCTV音乐.备用,中央15台,中央15套,中央电视台15,中央音乐,央视-15,音乐15台"
+      "name": "CCTV15,34.CCTV-15音乐-1080P,C15C15,CCTV-15,CCTV15.CN,CCTV15H,CCTV15HD,CCTV-15音乐,CCTV-15_音乐,CCTV_15音乐,CCTV15音乐,CCTV-15音乐HD,CCTV15音乐HD,CCTV-15高清,CCTV音乐,CCTV音乐HD,CCTV音乐.备用,中央15台,中央15套,中央电视台15,中央音乐,央视-15,音乐15台"
     },
     {
       "epgid": "CCTV16",
@@ -548,7 +548,7 @@
     {
       "epgid": "CCTV9",
       "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV9.png",
-      "name": "CCTV9,29.CCTV-9纪录-1080P,CCTV_09纪录,CCTV-9,CCTV9H,CCTV9HD,CCTV-9_纪录,CCTV-9纪录,CCTV9纪录,CCTV-9记录,CCTV-9高清,CCTV纪录,CCTV纪录.备用,中央9台,中央九台,中央九套,中央电视台9,中央记录,中央记录高清,央视-9,纪录9台,记录9台"
+      "name": "CCTV9,29.CCTV-9纪录-1080P,CCTV_09纪录,CCTV-9,CCTV9H,CCTV9HD,CCTV-9_纪录,CCTV-9纪录,CCTV9纪录,CCTV-9纪录HD,CCTV-9记录,CCTV-9高清,CCTV纪录,CCTV纪录.备用,中央9台,中央九台,中央九套,中央电视台9,中央记录,中央记录高清,央视-9,纪录9台,记录9台"
     },
     {
       "epgid": "CCTV娱乐",
