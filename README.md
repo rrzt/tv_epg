@@ -8,10 +8,12 @@
 https://gitee.com/taksssss/tv/raw/main/epg/112114.xml.gz
 ```
 
-**[老张的 EPG（51zmt）](http://epg.51zmt.top:8000/)**
+**[老张的 EPG（51zmt）](http://epg.51zmt.top/)**
 
 ```
 https://gitee.com/taksssss/tv/raw/main/epg/51zmt.xml.gz
+https://gitee.com/taksssss/tv/raw/main/epg/51zmte1.xml.gz
+https://gitee.com/taksssss/tv/raw/main/epg/51zmte2.xml.gz
 ```
 
 **[erw](https://e.erw.cc/)**
