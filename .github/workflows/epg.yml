@@ -20,7 +20,7 @@ jobs:
         run: |
           sudo sed -i 's|http://.*.ubuntu.com|http://archive.ubuntu.com|g' /etc/apt/sources.list
           sudo apt-get update
-          sudo apt-get install -y libxml2-utils
+          sudo apt-get install -y libxml2-utils file
 
           mkdir -p epg
           FAILED_FILES=""
@@ -30,18 +30,33 @@ jobs:
 
             xml_file="epg/$filename"
             xml_tmp="$xml_file.tmp"
+            raw_tmp="$xml_file.raw"
             HTTP_CODE=0
 
             HTTP_CODE=$(curl -k --retry 5 \
-              -w "%{http_code}" -o "$xml_tmp" "$url" || echo 0)
+              -w "%{http_code}" -o "$raw_tmp" "$url" || echo 0)
 
             # HTTP 状态码判断
             if [ "$HTTP_CODE" != "200" ]; then
               echo "下载失败：$filename（HTTP $HTTP_CODE）"
               FAILED_FILES="$FAILED_FILES\n$filename（HTTP $HTTP_CODE）"
-              rm -f "$xml_tmp"
+              rm -f "$raw_tmp"
               continue
             fi
+
+            # 自动识别并解压
+            mime_type=$(file -b --mime-type "$raw_tmp")
+            
+            if [[ "$mime_type" == "application/gzip" || "$mime_type" == "application/x-gzip" ]]; then
+              echo "检测到 GZIP 格式，正在解压..."
+              # 解压并输出到 xml_tmp (原逻辑需要的纯文本文件)
+              gunzip -c "$raw_tmp" > "$xml_tmp"
+            else
+              echo "检测为普通文本，直接处理..."
+              mv "$raw_tmp" "$xml_tmp"
+            fi
+            # 清理原始下载文件
+            rm -f "$raw_tmp"
 
             # epg.pw 时区修正
             if [[ "$url" == *"epg.pw"* ]]; then
