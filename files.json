@@ -1,10 +1,10 @@
 {
-  "112114.xml": "https://epg.112114.xyz/pp.xml",
-  "51zmt.xml": "https://epg.51zmt.top:8001/e.xml.gz",
+  "112114.xml": "https://epg.112114.xyz/pp.xml.gz",
+  "51zmt.xml": "http://epg.51zmt.top:8000/e.xml.gz",
   "51zmte1.xml": "http://epg.51zmt.top:8000/e1.xml.gz",
   "51zmte2.xml": "http://epg.51zmt.top:8000/e2.xml.gz",
-  "erw.xml": "http://e.erw.cc/all.xml",
-  "epgpw_cn.xml": "https://epg.pw/xmltv/epg_CN.xml",
-  "epgpw_hk.xml": "https://epg.pw/xmltv/epg_HK.xml",
-  "epgpw_tw.xml": "https://epg.pw/xmltv/epg_TW.xml"
+  "erw.xml": "http://e.erw.cc/all.xml.gz",
+  "epgpw_cn.xml": "https://epg.pw/xmltv/epg_CN.xml.gz",
+  "epgpw_hk.xml": "https://epg.pw/xmltv/epg_HK.xml.gz",
+  "epgpw_tw.xml": "https://epg.pw/xmltv/epg_TW.xml.gz"
 }
