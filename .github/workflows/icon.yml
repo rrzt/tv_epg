@@ -75,9 +75,9 @@ jobs:
           if curl -k --fail -o assets/51zmt.m3u.tmp https://epg.51zmt.top:8001/test.m3u; then
             mv assets/51zmt.m3u.tmp assets/51zmt.m3u
           else
-            rm assets/51zmt.m3u.tmp 2>/dev/null
+            rm -f assets/51zmt.m3u.tmp
             echo "下载失败，保持原文件不变"
-          fi
+          fi || true
           awk -F'tvg-logo=|tvg-name="' '/#EXTINF/ {
             match($2, /"([^"]+)"/, logo);
             match($3, /([^"]+)"/, name);
