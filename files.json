@@ -3,7 +3,7 @@
   "51zmt.xml": "http://exml.51zmt.top:11111/download.php?f=e.xml",
   "51zmte1.xml": "http://exml.51zmt.top:11111/download.php?f=e1.xml",
   "51zmte2.xml": "http://exml.51zmt.top:11111/download.php?f=e2.xml",
-  "erw.xml": "http://e.erw.cc/all.xml.gz",
+  "erw.xml": "https://raw.githubusercontent.com/kuke31/xmlgz/main/all.xml.gz",
   "epgpw_cn.xml": "https://epg.pw/xmltv/epg_CN.xml.gz",
   "epgpw_hk.xml": "https://epg.pw/xmltv/epg_HK.xml.gz",
   "epgpw_tw.xml": "https://epg.pw/xmltv/epg_TW.xml.gz"
