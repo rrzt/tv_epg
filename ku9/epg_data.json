@@ -6523,7 +6523,7 @@
     {
       "epgid": "凤凰中文",
       "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/凤凰中文.png",
-      "name": "凤凰中文,222,83.凤凰中文-1080P,PHOENIXCHINESECHANNEL.HK,🇭🇰凤凰中文,凤凰中文2,凤凰中文5,凤凰中文F,凤凰中文「IPV6」,凤凰中文可回看,凤凰卫视,凤凰卫视中文台,香港凤凰中文,鳳凰衛視中文台"
+      "name": "凤凰中文,222,83.凤凰中文-1080P,PHOENIXCHINESECHANNEL.HK,PHOENIX-CN,🇭🇰凤凰中文,凤凰中文2,凤凰中文5,凤凰中文F,凤凰中文「IPV6」,凤凰中文可回看,凤凰卫视,凤凰卫视中文台,香港凤凰中文,鳳凰衛視中文台"
     },
     {
       "epgid": "凤凰卫视中文",
@@ -6553,12 +6553,12 @@
     {
       "epgid": "凤凰资讯",
       "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/凤凰资讯.png",
-      "name": "凤凰资讯,84.凤凰资讯-1080P,凤凰卫视资讯,凤凰卫视资讯台,🇭🇰凤凰资讯,凤凰资讯2,凤凰资讯5,凤凰资讯F,凤凰资讯HD,凤凰资讯「IPV6」,凤凰资讯台,香港凤凰资讯,鳳凰衛視資訊台"
+      "name": "凤凰资讯,84.凤凰资讯-1080P,PHOENIX-NEWS,凤凰卫视资讯,凤凰卫视资讯台,🇭🇰凤凰资讯,凤凰资讯2,凤凰资讯5,凤凰资讯F,凤凰资讯HD,凤凰资讯「IPV6」,凤凰资讯台,香港凤凰资讯,鳳凰衛視資訊台"
     },
     {
       "epgid": "凤凰香港",
       "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/凤凰香港.png",
-      "name": "凤凰香港,85.凤凰香港-720P,凤凰中文.备用,凤凰卫视香港台,🇭🇰凤凰香港,凤凰香港F,凤凰香港「IPV6」,凤凰香港台,香港凤凰香港,鳳凰衛視香港台"
+      "name": "凤凰香港,85.凤凰香港-720P,PHOENIX-HK,凤凰中文.备用,凤凰卫视香港台,🇭🇰凤凰香港,凤凰香港F,凤凰香港「IPV6」,凤凰香港台,香港凤凰香港,鳳凰衛視香港台"
     },
     {
       "epgid": "凤县",
@@ -9903,7 +9903,7 @@
     {
       "epgid": "无线新闻",
       "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/无线新闻.png",
-      "name": "无线新闻,TVBNEWSCHANNEL.HK,TVB新闻,TVB 无线新闻台,TVB無綫新聞,无线新闻台,无线新闻台.720,無綫新聞1,無綫新聞台,無線新聞1"
+      "name": "无线新闻,TVBNEWSCHANNEL.HK,TVBNEWS-HD,TVBNEWS-SD,TVB新闻,TVB 无线新闻台,TVB無綫新聞,无线新闻台,无线新闻台.720,無綫新聞1,無綫新聞台,無線新聞1"
     },
     {
       "epgid": "无线日剧",
