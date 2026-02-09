@@ -25,20 +25,44 @@ def create_zip(zip_path, icon_dir, new_epg_data_path):
             icon_zip.write(os.path.join(icon_dir, icon_file), arcname=icon_file)
         icon_zip.write(new_epg_data_path, arcname='epg_data.json')
 
-def fetch_alias_data():
-    """获取频道别名数据"""
-    response = requests.get('https://diyp.112114.xyz/alias')
-    response.raise_for_status()
-    soup = BeautifulSoup(response.content, 'html.parser')
-    alias_data = {}
-    for p in soup.find_all('p'):
-        content = html.unescape(p.decode_contents())
-        for line in content.split('\n'):
-            line = line.strip()
-            if '-->' in line:
-                alias, channel = map(str.strip, re.split(r'\s*-->\s*', line))
-                alias_data.setdefault(channel.upper(), []).append(alias.upper())
-    return {channel: ','.join(aliases) for channel, aliases in alias_data.items()}
+def fetch_alias_data(local_path='ku9/alias.json'):
+    """获取频道别名数据，优先在线，失败则使用本地文件"""
+    try:
+        response = requests.get('https://diyp.112114.xyz/alias', timeout=10)
+        response.raise_for_status()
+
+        soup = BeautifulSoup(response.content, 'html.parser')
+        alias_data = {}
+
+        for p in soup.find_all('p'):
+            content = html.unescape(p.decode_contents())
+            for line in content.split('\n'):
+                line = line.strip()
+                if '-->' in line:
+                    alias, channel = map(str.strip, re.split(r'\s*-->\s*', line))
+                    alias_data.setdefault(channel.upper(), []).append(alias.upper())
+
+        formatted = {
+            channel: ','.join(aliases)
+            for channel, aliases in alias_data.items()
+        }
+
+        print('alias 在线获取成功')
+        return formatted
+
+    except Exception as e:
+        print(f'alias 在线获取失败，尝试使用本地文件：{e}')
+
+        if os.path.exists(local_path):
+            try:
+                with open(local_path, 'r', encoding='utf-8') as f:
+                    print('使用本地 alias.json')
+                    return json.load(f)
+            except Exception as e:
+                print(f'本地 alias.json 读取失败：{e}')
+
+        print('未获取到 alias，使用空别名')
+        return {}
 
 def generate_epg_data(icon_data, formatted_alias):
     """生成 EPG 数据"""
