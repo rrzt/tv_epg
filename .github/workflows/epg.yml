@@ -17,6 +17,8 @@ jobs:
         run: sudo apt-get install -y jq
 
       - name: Download files from files.json
+        env:
+          DOWNLOAD_PROXY: ${{ secrets.DOWNLOAD_PROXY }}
         run: |
           sudo sed -i 's|http://.*.ubuntu.com|http://archive.ubuntu.com|g' /etc/apt/sources.list
           sudo apt-get update
@@ -26,7 +28,24 @@ jobs:
           FAILED_FILES=""
 
           while read -r filename url; do
-            echo "Downloading $filename from $url"
+            source_url="$url"
+            request_url="$url"
+
+            if [[ "$url" == proxy:* ]]; then
+              source_url="${url#proxy:}"
+
+              if [ -z "$DOWNLOAD_PROXY" ]; then
+                echo "下载失败：$filename（未配置 secrets.DOWNLOAD_PROXY）"
+                FAILED_FILES="$FAILED_FILES\n$filename（未配置代理 secrets）"
+                continue
+              fi
+
+              encoded_source_url=$(printf '%s' "$source_url" | jq -sRr @uri)
+              request_url="${DOWNLOAD_PROXY}${encoded_source_url}"
+              echo "Downloading $filename from $source_url (via proxy)"
+            else
+              echo "Downloading $filename from $source_url"
+            fi
 
             xml_file="epg/$filename"
             xml_tmp="$xml_file.tmp"
@@ -34,7 +53,7 @@ jobs:
             HTTP_CODE=0
 
             HTTP_CODE=$(curl -k --retry 5 \
-              -w "%{http_code}" -o "$raw_tmp" "$url" || echo 0)
+              -w "%{http_code}" -o "$raw_tmp" "$request_url" || echo 0)
 
             # HTTP 状态码判断
             if [ "$HTTP_CODE" != "200" ]; then
@@ -59,7 +78,7 @@ jobs:
             rm -f "$raw_tmp"
 
             # epg.pw 时区修正
-            if [[ "$url" == *"epg.pw"* ]]; then
+            if [[ "$source_url" == *"epg.pw"* ]]; then
               sed -i 's/+0000/+0800/g' "$xml_tmp"
             fi
 
