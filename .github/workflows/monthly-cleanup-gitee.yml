@@ -36,7 +36,7 @@ jobs:
           echo "🧹 执行仓库瘦身..."
           CLEAN_BIN=$(find . -name git-repo-clean | head -n 1)
           chmod +x "$CLEAN_BIN"
-          "$CLEAN_BIN" --force
+          "$CLEAN_BIN" -d -l 1k
 
       # Step 4：彻底清理历史并压缩
       - name: Reset repository history and cleanup
