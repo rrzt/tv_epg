@@ -3,6 +3,7 @@ on:
   schedule:
     - cron: '0 8 * * *'   # 北京时间16:00
     - cron: '0 18 * * *'  # 北京时间凌晨2:00
+    - cron: '*/15 * * * *'  # 每15分钟自动同步一次
   workflow_dispatch:
 
 jobs:
